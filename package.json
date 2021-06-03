@@ -1,0 +1,22 @@
+{
+  "name": "psoc-webdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhi-2311/PSOC-WEBDEV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhi-2311/PSOC-WEBDEV/issues"
+  },
+  "homepage": "https://github.com/adhi-2311/PSOC-WEBDEV#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
